@@ -10,7 +10,7 @@ import { FormsModule } from '@angular/forms';
     AppComponent, CountingComponent
   ],
   imports: [
-    BrowserModule,FormsModule
+    BrowserModule //,FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
