@@ -1,5 +1,4 @@
 import { Component,Input } from '@angular/core';
-//import { homedir } from 'os';
 
 @Component({
     selector: 'app-count',
